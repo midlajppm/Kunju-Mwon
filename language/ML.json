@@ -217,7 +217,7 @@
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
             "UPDATE": "*നിങ്ങളുടെ bot updated ആണ് !*",
-            "NEW_UPDATE": "*Kᴜɴᴊᴜ Ꮇᴡᴏɴ പുതിയ update ഉണ്ട് *",
+            "NEW_UPDATE": "*Kᴜɴᴊᴜ Ꮇᴡᴏɴ പുതിയ update ഉണ്ട്*",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
             "UPDATING": "```Updating..🐥```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
