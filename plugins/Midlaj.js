@@ -44,7 +44,7 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         alr_on = 'ആന്റിലിങ്ക് ഇതിനകം തുറന്നു!'
         alr_off = 'ആന്റിലിങ്ക് നിലവിൽ അടച്ചിരിക്കുന്നു!'
         BGM_on = 'Bgm on ആക്കി !'
-        BGM_off = 'Ini Bgm varilla :('
+        BGM_off = 'Bgm ഇനി വരില്ല  :('
     }
     if (config.LANG == 'PT') {
         l_dsc = 'Ativa a ferramenta Antilink.'
