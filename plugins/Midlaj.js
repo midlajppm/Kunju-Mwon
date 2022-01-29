@@ -43,7 +43,7 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         l_dsc = 'ആന്റിലിങ്ക് ഉപകരണം സജീവമാക്കുന്നു.'
         alr_on = 'ആന്റിലിങ്ക് ഇതിനകം തുറന്നു!'
         alr_off = 'ആന്റിലിങ്ക് നിലവിൽ അടച്ചിരിക്കുന്നു!'
-        BGM_on = 'Bgm on aayi !'
+        BGM_on = 'Bgm on ആക്കി !'
         BGM_off = 'Ini Bgm varilla :('
     }
     if (config.LANG == 'PT') {
